@@ -1,0 +1,8 @@
+title: Offres de stage
+description: "3 postes : Machine learning, Environnement acoustique 3D, Développeur front-end / web designer"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
