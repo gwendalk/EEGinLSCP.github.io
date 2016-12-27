@@ -1,4 +1,6 @@
-## Offres de stage
+![](http://EEGinLSCP.github.io/ENS_logoDEC_Large.png)
+
+## Propositions de stage 2016-2017
 
 1. [Machine learning pour une interface cerveau-machine](#stage1)  
 2. [Environnement acoustique 3D pour une interface cerveau-machine](#stage2)  
