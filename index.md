@@ -1,4 +1,4 @@
-![](http://EEGinLSCP.github.io/ENS_logoDEC_Large.png)
+![](http://EEGinLSCP.github.io/ENS_logoDEC_Large.png)  
 
 ## Propositions de stage 2016-2017
 
@@ -8,7 +8,7 @@
 
 ***
 
-## Machine learning pour une interface cerveau-machine - Ecole Normale Supérieure<a name="stage1"></a>
+## <a name="stage1"></a>Machine learning pour une interface cerveau-machine - Ecole Normale Supérieure
 
 ### Contexte et Objectif du stage
 Les toutes dernières découvertes en neurosciences indiquent que les réponses cérébrales à des sons, et en particulier à des signaux de paroles, peuvent être décodés par l’EEG (électroencéphalogramme). Le projet actuel consiste à créer une interface cerveau-machine couplé avec un environnement sonore 3D dans lequel les signaux sonores (parole ou musique) évolueront en temps-réel en fonction de l’attention mesurée par l’activité cérébrale.
@@ -43,7 +43,7 @@ Les stagiaires bénéficient d'un remboursement transport à hauteur de 50% de l
 
 ***
 
-## Environnement acoustique 3D pour une interface cerveau-machine<a name="stage2"></a>
+## <a name="stage2"></a>Environnement acoustique 3D pour une interface cerveau-machine
 __Stage M2 recherche__
 
 ### Nom des proposants, équipe, laboratoire
@@ -81,7 +81,7 @@ Toutes ces étapes impliquent des échanges et une intégration au sein de l’�
 
 ***
 
-## Stage – Développeur front-end/web designer – Ecole Normale Supérieure<a name="stage3"></a>
+## <a name="stage3"></a>Stage – Développeur front-end/web designer – Ecole Normale Supérieure
 
 ### Description de l’offre
 Vous serez intégré à une jeune équipe d’ingénieurs et de chercheurs dédiée à l’élaboration d’un système EEG portatif pour des interfaces cerveau-machines. Ce projet, hautement innovant, vous permettra d’appliquer vos compétences dans le cadre d’un environnement de recherche à la pointe des dernières découvertes scientifiques sur le cerveau.
