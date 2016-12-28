@@ -2,6 +2,8 @@
 
 ## Propositions de stage 2016-2017
 
+Trois postes sont à pourvoir actuellement:
+
 1. [Machine learning pour une interface cerveau-machine](#stage1)  
 2. [Environnement acoustique 3D pour une interface cerveau-machine](#stage2)  
 3. [Développeur front-end/web designer](#stage3)  
