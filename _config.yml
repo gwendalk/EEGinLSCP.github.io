@@ -1,7 +1,9 @@
+name: Equipe Cerveau et Conscience, LSCP
 title: |
-  Offres de stage 
-  LSCP, Equipe 'Cerveau et Conscience'
-description: "3 postes : Machine learning, Environnement acoustique 3D, Développeur front-end / web designer"
+  LSCP, Equipe Cerveau et Conscience  
+description: |
+  Offres de stage  
+  3 postes : Machine learning, Environnement acoustique 3D, Développeur front-end / web designer"
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-cayman
