@@ -1,4 +1,5 @@
-<img src="http://EEGinLSCP.github.io/ENS_logoDEC_Large.png" alt="ENS" width="500" align="right">
+<img src="http://EEGinLSCP.github.io/ENS_logoDEC_Large.png" alt="ENS" width="400" align="right">
+
 
 ## Propositions de stage 2016-2017
 
