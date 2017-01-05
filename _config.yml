@@ -1,6 +1,9 @@
 name: Equipe Cerveau et Conscience, LSCP
 title: Offres de stage  
-description: "Ecole Normale Supérieure <br /> Laboratoire de Sciences Cognitives et Psycholinguistique <br /> Equipe Cerveau et Conscience <br /> Principal investigator: *Sid Kouider*"
+description: |  
+  Ecole Normale Supérieure <br />  
+  Equipe Cerveau et Conscience, LSCP <br />  
+  Principal investigator: <b>Sid Kouider</b>
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-cayman
