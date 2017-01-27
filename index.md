@@ -14,7 +14,7 @@ Trois postes sont à pourvoir actuellement:
 ## <a name="stage1"></a>Machine learning pour une interface cerveau-machine - Ecole Normale Supérieure
 
 #### Contexte et Objectif du stage
-Les toutes dernières découvertes en neurosciences indiquent que les réponses cérébrales à des sons, et en particulier à des signaux de paroles, peuvent être décodés par l’EEG (électroencéphalogramme). Le projet actuel consiste à créer une interface cerveau-machine couplé avec un environnement sonore 3D dans lequel les signaux sonores (parole ou musique) évolueront en temps-réel en fonction de l’attention mesurée par l’activité cérébrale.
+Les toutes dernières découvertes en neurosciences indiquent que les réponses cérébrales à des sons, et en particulier à des signaux de paroles, peuvent être décodés par l’EEG (électroencéphalogramme). Le projet actuel consiste à créer une interface cerveau-machine couplée avec un environnement visuel et sonore 3D dans lequel les signaux sonores (parole ou musique) évolueront en fonction de l’attention mesurée par l’activité cérébrale en temps-réel.
 
 Vous serez intégré à une jeune équipe d’ingénieurs, de chercheurs et de designers dédiée à l’élaboration de dispositifs et d’applications pour des interfaces cerveau-machines. Ce projet, hautement innovant, vous permettra d’appliquer vos compétences dans le cadre d’un environnement de recherche à la pointe des dernières découvertes scientifiques sur le cerveau.
 
@@ -55,9 +55,9 @@ Nicolas Barascud : nicolas.barascud@ens.fr
 Ecole Normale Sup., Département d’Etudes Cognitives, Equipe Cerveau et Conscience.  
 
 #### Contexte et Objectif du stage
-Ces dernières années ont vu un nombre grandissant de recherches sur des interfaces cerveau-machine, c’est-à-dire des dispositifs permettant d’agir sur le monde extérieure directement par la pensée. Les casques EEG (ElectroEncéphaloGraphie), permettant d’enregistrer l’activité cérébrale superficielle, deviennent portatifs et sont désormais abordables pour le grand public.  De tels dispositifs feront bientôt partie de notre quotidien.
+Ces dernières années ont vu un nombre grandissant de recherches sur des interfaces cerveau-machine, c’est-à-dire des dispositifs permettant d’agir sur le monde extérieur directement par la pensée. Les casques EEG (ElectroEncéphaloGraphie), permettant d’enregistrer l’activité cérébrale superficielle, deviennent portatifs et sont désormais abordables pour le grand public.  De tels dispositifs feront bientôt partie de notre quotidien.
 
-Les toutes dernière découvertes en neurosciences et en psychoacoustique indique que les réponses cérébrales à des sons, et en particulier à des signaux de paroles, peuvent être décodés par l’EEG. Par exemple, dans une situation de type ‘Cocktail Party’, avec plusieurs locuteurs, il devient possible de determiner si l’on porte attention à la personne A plutôt que la personne B, juste en décodant les signaux neuronaux enregistrés par l’EEG. Néanmoins, ce décodage de la parole et de l’attention n’a pas encore été utilisé en temps-réel,  dans le cadre d’une interface cerveau-machine. Le projet actuel consiste à créer un environnement sonore 3D dans lequel les signaux sonores (parole ou musique) évolueront en temps-réel en fonction de l’attention mesurée par l’activité cérébrales.
+Les toutes dernières découvertes en neurosciences et en psychoacoustique indiquent que les réponses cérébrales à des sons, et en particulier à des signaux de parole, peuvent être décodés par l’EEG. Par exemple, dans une situation de type ‘Cocktail Party’, avec plusieurs locuteurs, il devient possible de determiner si l’on porte attention à la personne A plutôt que la personne B, juste en décodant les signaux neuronaux enregistrés par l’EEG. Néanmoins, ce décodage de la parole et de l’attention n’a pas encore été utilisé en temps-réel,  dans le cadre d’une interface cerveau-machine. Le projet actuel consiste à créer un environnement sonore 3D dans lequel les signaux sonores (parole ou musique) évolueront en temps-réel en fonction de l’attention mesurée par l’activité cérébrale.
 
 Vous serez intégrés, au sein de l’ENS, à une équipe pluridisciplinaire composée d’ingénieurs et de chercheurs en neurosciences cognitives, machine learning et systèmes embarqués dont l’objectif est de développer un prototype rapidement. Vous travaillez en particulier sur la partie audio et spatialisation sonore, et vous serez en charge de mettre en place un environnement acoustique en 3D virtuel utilisable en temps réel.
 
@@ -69,12 +69,12 @@ Le stage se déroulera suivant les phases suivantes :
 * Expérience en conditions réelles
 * Rédaction du mémoire 
 
-Toutes ces étapes impliquent des échanges et une intégration au sein de l’équipe importante. En effet, la qualité des stimuli et de leur spatialisation sont au coeur du système et conditionnent son bon fonctionnement.
+Toutes ces étapes impliquent des échanges constants et une intégration importante au sein de l’équipe. En effet, la qualité des stimuli et de leur spatialisation sont au coeur du système et conditionnent son bon fonctionnement.
 
 #### Compétences souhaitées
 * Traitement du signal
 * Bonne compétences en programmation Matlab ou Python. Une expérience avec un dispositif temps réel est un plus 
-* Connaissance des systèmes son 3D types binaural
+* Connaissance des systèmes de spatialisation sonore (binaural, HRTF, ...)
 * Psychoacoustique, psychologie cognitive expérimentale 
 
 #### Divers
@@ -88,7 +88,7 @@ Toutes ces étapes impliquent des échanges et une intégration au sein de l’�
 ## <a name="stage3"></a>Stage – Développeur front-end/web designer – Ecole Normale Supérieure
 
 #### Description de l’offre
-Vous serez intégré à une jeune équipe d’ingénieurs et de chercheurs dédiée à l’élaboration d’un système EEG portatif pour des interfaces cerveau-machines. Ce projet, hautement innovant, vous permettra d’appliquer vos compétences dans le cadre d’un environnement de recherche à la pointe des dernières découvertes scientifiques sur le cerveau.
+Vous serez intégré à une jeune équipe d’ingénieurs et de chercheurs dédiée à l’élaboration d’un système d'électroencéphalographie (EEG) portatif pour des interfaces cerveau-machines. Ce projet, hautement innovant, vous permettra d’appliquer vos compétences dans le cadre d’un environnement de recherche à la pointe des dernières découvertes scientifiques sur le cerveau.
 
 #### Missions
 * Design d’une interface graphique multiplateforme à destination de la recherche et de la médecine, pour contrôler un dispositif d’acquisition de données EEG et visualiser ces données en temps réel ou les analyser à posteriori.
