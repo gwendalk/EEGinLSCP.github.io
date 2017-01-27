@@ -14,7 +14,7 @@ Trois postes sont à pourvoir actuellement:
 ## <a name="stage1"></a>Machine learning pour une interface cerveau-machine - Ecole Normale Supérieure
 
 #### Contexte et Objectif du stage
-Les toutes dernières découvertes en neurosciences indiquent que les réponses cérébrales à des sons, et en particulier à des signaux de parole, peuvent être décodés par l’EEG (électroencéphalogramme). Le projet actuel consiste à créer une interface cerveau-machine couplée avec un environnement audiovisuel 3D dans lequel les signaux sonores (parole ou musique) évolueront en fonction de l’attention mesurée par l’activité cérébrale en temps-réel.
+Les toutes dernières découvertes en neurosciences indiquent que les réponses cérébrales à des sons, et en particulier à des signaux de parole, peuvent être décodées par l’EEG (électroencéphalogramme). Le projet actuel consiste à créer une interface cerveau-machine couplée avec un environnement audiovisuel 3D dans lequel les signaux sonores (parole ou musique) évolueront en fonction de l’attention mesurée par l’activité cérébrale, en temps-réel.
 
 Vous serez intégré à une jeune équipe d’ingénieurs, de chercheurs et de designers dédiée à l’élaboration de dispositifs et d’applications pour des interfaces cerveau-machines. Ce projet, hautement innovant, vous permettra d’appliquer vos compétences dans le cadre d’un environnement de recherche à la pointe des dernières découvertes scientifiques sur le cerveau.
 
