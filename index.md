@@ -92,7 +92,7 @@ Vous serez intégré à une jeune équipe d’ingénieurs et de chercheurs dédi
 
 #### Missions
 * Design d’une interface graphique multiplateforme à destination de la recherche et de la médecine, pour contrôler un dispositif d’acquisition de données EEG et visualiser ces données en temps réel ou les analyser à posteriori.
-* Développement front-end de cette interface (HTML, JSS, JavaScript…)
+* Développement front-end de cette interface (HTML, CSS, JavaScript…)
 * Réalisation d’un site internet vitrine
 
 #### Lieu du poste
