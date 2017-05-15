@@ -45,9 +45,9 @@ Envoyez votre CV à Gwendal Kerdavid : [gwendal dot kerdavid at ens dot fr](mail
 ## <a name="stage2"></a>Marketing des technologies innovantes - Ecole Normale Supérieure
 
 #### Description de l’offre
-Notre projet est réalisé par une jeune équipe composée d’ingénieurs, de designers et de chercheurs de l’Ecole Normale Supérieure. Nous travaillons sur la conception d’un ensemble d’outils hautement innovants, reposant sur l’électroencéphalographie.
+Notre projet est réalisé par une jeune équipe composée d’ingénieurs, de designers et de chercheurs de l’Ecole Normale Supérieure. Nous travaillons sur la conception d’un ensemble d’outils hautement innovants, reposant sur l’électroencéphalographie (EEG).
 
-Nous souhaitons pouvoir étudier les différents usages de nos technologies et leurs impacts dans différents domaines (communication, « Serious Game », recherche, médecine…).
+Nous souhaitons pouvoir étudier les différents usages de nos technologies et leurs impacts dans différents domaines (communication, « serious games », recherche, médecine…).
 
 Le travail inclura une _exploration des marchés_ ainsi qu’un travail de _conception d’un modèle d’exploitation et d’organisation d’une jeune start-up_ innovante.
 
