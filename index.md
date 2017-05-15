@@ -3,15 +3,74 @@
 
 ## Propositions de stage 2016-2017
 
-Trois postes sont à pourvoir actuellement:
+5 postes sont à pourvoir actuellement:
 
-1. [Machine learning pour une interface cerveau-machine](#stage1)  
-2. [Environnement acoustique 3D pour une interface cerveau-machine](#stage2)  
-3. [Développeur front-end/web designer](#stage3)  
+1. [Chargé(e) de communication](#stage1)
+2. [Marketing des technologies innovantes](#stage2)
+3. [Machine learning pour une interface cerveau-machine](#stage3)  
+4. [Environnement acoustique 3D pour une interface cerveau-machine](#stage4)  
+5. [Développeur front-end/web designer](#stage5)  
 
 ***
 
-## <a name="stage1"></a>Machine learning pour une interface cerveau-machine - Ecole Normale Supérieure
+## <a name="stage1"></a>Chargé(e) de communication - Ecole Normale Supérieure
+
+#### Description de l’offre
+Noïa est une start-up innovante issue d’un laboratoire de l’École Normale Supérieure spécialisée dans les neurosciences et en particulier dans les nouvelles technologies liées à l‘électroencéphalographie (EEG). Afin de pouvoir lancer notre start-up, nous cherchons activement un(e) chargé(e) de communication. Vous travaillerez en collaboration avec le directeur de recherche ainsi que les membres de l’équipe en charge de la conception visuelle.
+
+#### Missions principales
+* Élaboration d’une stratégie innovante de communication institutionnelle et commerciale à court, moyen et long terme.
+* Gestion de la réalisation de supports visuels (campagnes sur les réseaux sociaux, E-Blasts, teasers, MOOC, Kickstarter …)
+* Community management (veille des réseaux sociaux et des communautés techs pertinentes)
+* Relations publiques (médias, institutions… )
+
+#### Lieu du poste
+Paris 1er, Ecole Normale Supérieure
+
+#### Profil
+* Bac +4/5 
+* Capacité d’analyse et de synthèse 
+* Aisance relationnelle 
+* Intérêt pour les nouvelles technologies 
+* Capacité rédactionnelle 
+* Anglais/Français courant
+
+#### Type de poste
+Stage de 2 à 6 mois à pourvoir dès que possible (possibilité de commencer à partir de septembre pour un stage de césure).
+Possibilité d’embauche à la suite du stage.
+
+#### Contact
+Envoyez votre CV à Gwendal Kerdavid : [gwendal dot kerdavid at ens dot fr](mailto:gwendal.kerdavid@ens.fr)
+
+## <a name="stage2"></a>Marketing des technologies innovantes - Ecole Normale Supérieure
+
+#### Description de l’offre
+Notre projet est réalisé par une jeune équipe composée d’ingénieurs, de designers et de chercheurs de l’Ecole Normale Supérieure. Nous travaillons sur la conception d’un ensemble d’outils hautement innovants, reposant sur l’électroencéphalographie.
+
+Nous souhaitons pouvoir étudier les différents usages de nos technologies et leurs impacts dans différents domaines (communication, « Serious Game », recherche, médecine…).
+
+Le travail inclura une _exploration des marchés_ ainsi qu’un travail de _conception d’un modèle d’exploitation et d’organisation d’une jeune start-up_ innovante.
+
+#### Missions principales
+* Etudes de marché
+* Rencontre des acteurs du marché (enquête, interview, recherche …)
+* Développement de stratégies marketing et commerciales
+
+#### Lieu du poste
+Paris 1er, Ecole Normale Supérieure
+
+#### Compétences appréciées
+* Esprit entrepreneurial 
+* Capacité d’analyse et de synthèse 
+* Aisance relationnelle 
+
+#### Type de poste
+Stage de 3 à 6 mois à pourvoir dès que possible
+
+#### Contact
+Envoyez votre CV à Gwendal Kerdavid : [gwendal dot kerdavid at ens dot fr](mailto:gwendal.kerdavid@ens.fr)
+
+## <a name="stage3"></a>Machine learning pour une interface cerveau-machine - Ecole Normale Supérieure
 
 #### Contexte et Objectif du stage
 Les toutes dernières découvertes en neurosciences indiquent que les réponses cérébrales à des sons, et en particulier à des signaux de parole, peuvent être décodées par l’EEG (électroencéphalogramme). Le projet actuel consiste à créer une interface cerveau-machine couplée avec un environnement audiovisuel 3D dans lequel les signaux sonores (parole ou musique) évolueront en fonction de l’attention mesurée par l’activité cérébrale, en temps-réel.
@@ -46,7 +105,7 @@ Les stagiaires bénéficient d'un remboursement transport à hauteur de 50% de l
 
 ***
 
-## <a name="stage2"></a>Environnement acoustique 3D pour une interface cerveau-machine
+## <a name="stage4"></a>Environnement acoustique 3D pour une interface cerveau-machine
 __Stage M2 recherche__
 
 #### Nom des proposants, équipe, laboratoire
@@ -85,7 +144,7 @@ Toutes ces étapes impliquent des échanges constants et une intégration import
 
 ***
 
-## <a name="stage3"></a>Stage – Développeur front-end/web designer – Ecole Normale Supérieure
+## <a name="stage5"></a>Stage – Développeur front-end/web designer – Ecole Normale Supérieure
 
 #### Description de l’offre
 Vous serez intégré à une jeune équipe d’ingénieurs et de chercheurs dédiée à l’élaboration d’un système d'électroencéphalographie (EEG) portatif pour des interfaces cerveau-machines. Ce projet, hautement innovant, vous permettra d’appliquer vos compétences dans le cadre d’un environnement de recherche à la pointe des dernières découvertes scientifiques sur le cerveau.
