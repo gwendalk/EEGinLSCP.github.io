@@ -11,6 +11,8 @@
 4. [Environnement acoustique 3D pour une interface cerveau-machine](#stage4)  
 5. [Développeur front-end/web designer](#stage5)  
 
+Si vous avez de l'expérience en apprentissage automatique, imagerie cérébrale ou réalité virtuelle mais ne correspondez pas exactement aux profils indiqués ci-dessus, nous vous invitons à nous faire parvenir votre candidature spontanée à l'adresse suivante [Gwendal Kerdavid](mailto:gwendal.kerdavid@ens.fr) (joindre CV et lettre de motivation).
+
 ***
 
 ## <a name="stage1"></a>Chargé(e) de communication - Ecole Normale Supérieure
