@@ -4,11 +4,11 @@
 
 1 postes sont à pourvoir actuellement:
 
-1. [Machine learning pour une interface cerveau-machine](#emploi1)  
+1. [Ingénieur logiciel développement](#emploi1)  
 
 Si vous avez de l'expérience en apprentissage automatique, imagerie cérébrale ou réalité virtuelle mais ne correspondez pas exactement aux profils indiqués ci-dessus, nous vous invitons à nous faire parvenir votre candidature spontanée à l'adresse suivante [Gwendal Kerdavid](mailto:gwendal.kerdavid@ens.fr) (joindre CV et lettre de motivation).
 
-## <a name="emploi1"></a> Ingénieur développement logiciel  - Ecole Normale Supérieure
+## <a name="emploi1"></a> Ingénieur logiciel développement   - Ecole Normale Supérieure
 
 #### Description de l’offre 
 
