@@ -48,7 +48,7 @@ De formation Bac+4 minimum en développement logiciel, avec de préférence un a
 
 1. [Machine learning pour une interface cerveau-machine](#stage1)  
 2. [Environnement acoustique 3D pour une interface cerveau-machine](#stage2)  
-3. [Développeur front-end/web designer](#stage3)  
+3. [Développeur 3D Unity](#stage3)  
 
 Si vous avez de l'expérience en apprentissage automatique, imagerie cérébrale ou réalité virtuelle mais ne correspondez pas exactement aux profils indiqués ci-dessus, nous vous invitons à nous faire parvenir votre candidature spontanée à l'adresse suivante [Gwendal Kerdavid](mailto:gwendal.kerdavid@ens.fr) (joindre CV et lettre de motivation).
 
@@ -128,7 +128,7 @@ Toutes ces étapes impliquent des échanges constants et une intégration import
 
 ***
 
-## <a name="stage3"></a>Stage – Développeur Unity 3D – Ecole Normale Supérieure
+## <a name="stage3"></a>Stage – Développeur 3D Unity  – Ecole Normale Supérieure
 
 #### Description de l’offre
 Dans le cadre d'un projet combinant jeux vidéo et neurosciences, vous aurez en charge le support et le développement d'applications Unity 3D. Vous serez intégré à une jeune équipe d'ingénieurs et de chercheurs dédiée à la mise en place d'applications issues de la recherche sur le cerveau (jeux vidéo basés sur les neurosciences, applications combinant casques VR + EEG portatif pour des interfaces cerveau-machines, etc.). Ce projet, hautement innovant, vous permettra d'appliquer vos compétences dans le cadre d'un environnement de recherche à la pointe des dernières découvertes scientifiques sur le cerveau. 
