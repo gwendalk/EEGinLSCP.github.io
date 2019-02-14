@@ -57,35 +57,40 @@ Si vous avez de l'expérience en apprentissage automatique, imagerie cérébrale
 ## <a name="stage1"></a>Machine learning pour une interface cerveau-machine - Ecole Normale Supérieure
 
 #### Contexte et Objectif du stage
-Les toutes dernières découvertes en neurosciences indiquent que les réponses cérébrales à des sons, et en particulier à des signaux de parole, peuvent être décodées par l’EEG (électroencéphalogramme). Le projet actuel consiste à créer une interface cerveau-machine couplée avec un environnement audiovisuel 3D dans lequel les signaux sonores (parole ou musique) évolueront en fonction de l’attention mesurée par l’activité cérébrale, en temps-réel.
 
-Vous serez intégré à une jeune équipe d’ingénieurs, de chercheurs et de designers dédiée à l’élaboration de dispositifs et d’applications pour des interfaces cerveau-machines. Ce projet, hautement innovant, vous permettra d’appliquer vos compétences dans le cadre d’un environnement de recherche à la pointe des dernières découvertes scientifiques sur le cerveau.
+Lors de ce stage, vous serez intégré à une jeune équipe d’ingénieurs, de chercheurs et de designers dédiée à l’élaboration de dispositifs et d’applications pour des interfaces cerveau-machines. Ce projet, hautement innovant, vous permettra d’appliquer vos compétences dans le cadre d’un environnement de recherche à la pointe des dernières découvertes scientifiques sur le cerveau.
 
 #### Missions principales
-* Vous participerez à l’implémentation d’algorithmes récents d’apprentissage automatique par réseaux de neurones profonds, renforcement, ou d’inspiration biologique (LSTM, modèles attentionnels, etc.), afin de décoder le signal EEG multicanaux en temps réel.
-* Vous serez également chargé de faire agir ces modèles au sein de la chaine actuelle de décodage du signal EEG, en produisant un code optimisé capable de s’exécuter en temps-réel.
+
+Nous recherchons actuellement un(e) ingénieur(e) stagiaire en data science, dans les domaines d’application suivants :
+*	Traitement du signal en temps réel
+*	Interfaces cerveau-machine
+*	Apprentissage automatique et IA
+
+Vous participerez à l’implémentation d’algorithmes récents d’apprentissage automatique par réseaux de neurones profonds, renforcement, ou d’inspiration biologique (LSTM, modèles attentionnels, etc.), afin de décoder le signal électroencéphalographique (EEG) multicanaux. Vous serez également chargé de faire agir ces modèles au sein de la chaine actuelle de décodage du signal EEG, en produisant un code optimisé capable de s’exécuter en temps-réel.
+
 
 #### Nom des proposants, équipe, laboratoire
 Sid Kouider : sid.kouider@ens.fr  
-Nicolas Barascud : nicolas.barascud@ens.fr  
 Ecole Normale Sup., Département d’Etudes Cognitives, Equipe Cerveau et Conscience.  
 
 #### Compétences souhaitées
 * Analyse et traitement du signal
 * Compréhension mathématique des algorithmes de Machine learning
-* Compétences en programmation scientifique (Matlab ou Python)
+* Compétences en programmation scientifique (Python)
 
 #### Compétences appréciées
 * Maîtrise d’un langage performant (C, C++, Java…) pour implémentations temps réel
-* Expérience avec des bibliothèques courantes implémentant les principaux modèles et méthodes en Machine learning (tensorflow, theano, scikit-learn, etc.)
+* Expérience avec des bibliothèques courantes implémentant les principaux modèles et méthodes en Machine learning (tensorflow, PyTorch, scikit-learn, etc.)
 * Statistiques des séries temporelles
 
 #### Divers
 * Type de travail : Expérimental et ingénierie 
 * Durée : 6 mois
-* Rémunération : 554,40 Euros / mois.   
-Les stagiaires bénéficient d'un remboursement transport à hauteur de 50% de leur abonnement de transport et peuvent accéder au restaurant de l’ENS.
-* Locaux à l’ENS à Châtelet
+* Rémunération : 577,50 Euros / mois.   
+* Paris 9ème
+* Pour postuler, envovez votre CV à gwendal.kerdavid@ens.fr
+
 
 ***
 
